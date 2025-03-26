@@ -1,0 +1,8 @@
+# Ignoră fișierele de configurare sensibile
+config.json
+
+# Ignoră capturile de ecran
+*.png
+*.jpg
+*.jpeg
+*.gif
